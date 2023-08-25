@@ -20,5 +20,24 @@ Programm in VS gestartet	Nico	Hallo Nico
 [ ] ...3.
 [ ] ...4.
 ✍️ 
+
+
+ Leit-Satz:
+ Ich will beim MOdul 319 und 431 ein par aufgaben lösen und c# besser kennenlernen. Ich wil auch bei meinem Spiel das Dash script verbessern(also dass ich in allen 
+ rchtungen dashen kann).
+
+ Arbeitspakete:
+ 1. c# commands lernen 
+ 2. lua script tutorials schauen und einen neuen script für dashen herstellen
+ 3. moodle aufgaben lösen m431
+ 4. moodle aufgaben lösn m319
+ 
+ 
+
+
+
+
+
+
  
 
