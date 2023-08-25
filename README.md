@@ -4,7 +4,7 @@
 ✍️ 18.08.2023 - 22.09.2023
 
 Leit-Satz
-✍️ Ich will in diesem Zeitrahmen ein die Min. und Erweiterte Module bearbeiten und an einem Spiel programmieren üben. Ich will auch  
+✍️ Ich will in diesem Zeitrahmen ein die Min. und Erweiterte Module bearbeiten und an einem Spiel programmieren üben. Ich will auch lua und c# einigermassen gemeister haben. 
 
 Arbeitspakete für 25.08.2023
 ✍️ 1. 2-3 Module bearbeiten
