@@ -31,6 +31,18 @@ Programm in VS gestartet	Nico	Hallo Nico
  2. lua script tutorials schauen und einen neuen script für dashen herstellen
  3. moodle aufgaben lösen m431
  4. moodle aufgaben lösn m319
+ Was ich gemacht habe:
+ Ich habe bei meinem StopUhr Spiel angefangen und habe 2 Aufgaben im Modul 431 fertig gemacht. Ich habe auch einen neuen Dash script gemacht.
+
+
+ Leit-Satz:
+ Ich will beim Modul 431 Hz2 und die 3 Aufgaben von Hz3 fertig haben. Ich will auch mein StopUhr Spiel fertig machen.
+
+ Arbeitspakete.
+ 1. StopfUhr Spiel coden
+ 2. Hz2 fertig machen
+ 3. Hz3 2-3 Aufgaben machen
+ 4.StopUhr Spiel fertig machen
  
  
 
