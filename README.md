@@ -21,11 +21,6 @@ Programm in VS gestartet	Nico	Hallo Nico
 [ ] ...4.
 ✍️ 
 
-
- Leit-Satz:
- Ich will beim MOdul 319 und 431 ein par aufgaben lösen und c# besser kennenlernen. Ich wil auch bei meinem Spiel das Dash script verbessern(also dass ich in allen 
- rchtungen dashen kann).
-
  Arbeitspakete: 2.9.23
  1. c# commands lernen 
  2. lua script tutorials schauen und einen neuen script für dashen herstellen
