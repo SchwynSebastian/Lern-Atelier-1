@@ -26,7 +26,7 @@ Programm in VS gestartet	Nico	Hallo Nico
  Ich will beim MOdul 319 und 431 ein par aufgaben lösen und c# besser kennenlernen. Ich wil auch bei meinem Spiel das Dash script verbessern(also dass ich in allen 
  rchtungen dashen kann).
 
- Arbeitspakete:
+ Arbeitspakete: 2.9.23
  1. c# commands lernen 
  2. lua script tutorials schauen und einen neuen script für dashen herstellen
  3. moodle aufgaben lösen m431
@@ -38,11 +38,11 @@ Programm in VS gestartet	Nico	Hallo Nico
  Leit-Satz:
  Ich will beim Modul 431 Hz2 und die 3 Aufgaben von Hz3 fertig haben. Ich will auch mein StopUhr Spiel fertig machen.
 
- Arbeitspakete.
- 1. StopfUhr Spiel coden
- 2. Hz2 fertig machen
- 3. Hz3 2-3 Aufgaben machen
- 4.StopUhr Spiel fertig machen
+ Arbeitspakete: 15.09.23
+[x] Stopuhr spiel basis coden
+[] Hz2 fertig machen
+[x] Hz3 erarbeiten und 2 portfolios erstellen
+[ ] Stopuhr spiel fertig gemacht
  
  
 
