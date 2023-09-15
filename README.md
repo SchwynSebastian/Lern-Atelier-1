@@ -29,10 +29,6 @@ Programm in VS gestartet	Nico	Hallo Nico
  Was ich gemacht habe:
  Ich habe bei meinem StopUhr Spiel angefangen und habe 2 Aufgaben im Modul 431 fertig gemacht. Ich habe auch einen neuen Dash script gemacht.
 
-
- Leit-Satz:
- Ich will beim Modul 431 Hz2 und die 3 Aufgaben von Hz3 fertig haben. Ich will auch mein StopUhr Spiel fertig machen.
-
  Arbeitspakete: 15.09.23
  - [x] Stopuhr spiel basis coden
  - [ ] Hz2 fertig machen
