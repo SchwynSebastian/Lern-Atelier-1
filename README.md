@@ -43,7 +43,12 @@ Programm in VS gestartet	Nico	Hallo Nico
  - [ ] Hz2 fertig machen
  - [x] Hz3 erarbeiten und 2 portfolios erstellen
  - [ ] Stopuhr spiel fertig gemacht
- 
+
+ Arbetispakete: 22.09.23
+ - [ ] Stopuhr spiel beenden
+ - [ ] Hz2 fertig machen(wenn möglich ink. experten Ziele)
+ - [ ] Hz3 fertig lösen
+ - [ ] 3 neue portfolios erstellen
  
 
 
