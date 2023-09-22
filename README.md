@@ -1,4 +1,4 @@
-**Grob-Planung**
+****Grob-Planung**
 ✍️ Sebastian Schwyn
 
 ✍️ 18.08.2023 - 22.09.2023
@@ -34,6 +34,11 @@ Programm in VS gestartet	Nico	Hallo Nico
  - [ ] Hz2 fertig machen
  - [x] Hz3 erarbeiten und 2 portfolios erstellen
  - [ ] Stopuhr spiel fertig gemacht
+ 
+ Zusammenfassung:
+ ich habe am Anfang der Arbeit Am Modul 431 den Auftrag 1707 abgeschlossen. Ich habe nach einer kleinen Pause an meinen StopUhr Spiel(Prototyp) weiter programmiert. Ich bin 
+ in ein paar Fehler eingetroffen aber habe die meisten nach einer Stunde gelöst. Ich habe mich nachher zur Aufgabe Hz(Modul 319) gewendet und habe 2 portfolios erstellt. 
+ Ich bin mit dem Spiel nicht fertig geworden weil es mehr Zeit brauchte als ich gedacht habe.
 
  Arbetispakete: 22.09.23
  - [ ] Stopuhr spiel beenden
@@ -49,3 +54,4 @@ Programm in VS gestartet	Nico	Hallo Nico
 
  
 
+**E
