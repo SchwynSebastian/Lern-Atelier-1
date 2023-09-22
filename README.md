@@ -41,10 +41,22 @@ Programm in VS gestartet	Nico	Hallo Nico
  Ich bin mit dem Spiel nicht fertig geworden weil es mehr Zeit brauchte als ich gedacht habe.
 
  Arbetispakete: 22.09.23
- - [ ] Stopuhr spiel beenden
+ - [x] Stopuhr beenden
  - [ ] Hz2 fertig machen(wenn möglich ink. experten Ziele)
- - [ ] Hz3 fertig lösen
- - [ ] 3 neue portfolios erstellen
+ - [x] snake spiel anfangen
+ - [x] 3 neue portfolios erstellen
+
+ Zusammenfassung: 
+ Ich habe meine StopUhr beendet und aber mein Ziel vom Spiel machen verschoben weil ich mich entschiede hab dass ich ein snake Spiel mache. Ich habe Hz2 nicht ganz fertig 
+ gemacht. Ich bin mit dem Snake Spiel ziemlich gut gestartet und habe viel über die c# console app gelernt. Ich habe für die Leistungsbeurteilung(M319) 3 neue Portfolios 
+ erstellt und eine erweitert.
+ 
+ Reflexion:
+ Ich habe in diese Lernperiode gelernt wie ich ein Randomnumbergenerator und Stopuhr erstehl. Ich habe nicht zu viele Probleme mit dem Programmieren gehabt weil ich schon 
+ vorwissen besitze. Ich habe sonst in der lernperiode auch viel über die beiden Module gelernt und lösen können. Ich habe meine Arbeitspakete ziemlich gut aufgeschrieben 
+ und ausgeführt.
+ 
+ 
  
 
 
